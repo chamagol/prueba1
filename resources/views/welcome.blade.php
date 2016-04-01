@@ -40,7 +40,7 @@
 	<body>
 		<div class="container">
 			<div class="content">
-				<div class="title">Carlos Yovanny Huerta Castillo </div>
+				<div class="title">Aprediendo Laravel</div>
 				<div class="quote">{{ Inspiring::quote() }}</div>
 			</div>
 		</div>
