@@ -1,0 +1,17 @@
+{
+  "name": "pureba1",
+  "description": "Paquetes del frontend para el proyecto prueba",
+  "main": "",
+  "moduleType": [
+    "globals"
+  ],
+  "authors": [
+    "Ing. Carlos Yovanny Huerta Castillio"
+  ],
+  "license": "MIT",
+  "homepage": "prueba1.app",
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "bootstrap-material-design":"^0.2.2"
+  }
+}
